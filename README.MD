@@ -12,3 +12,6 @@ OpenGL, FreeGlut, C++
 $ make  
 $ ./TetrisFruits
 ```
+
+## Demo
+https://www.youtube.com/watch?v=3xBKeN0uKfA
